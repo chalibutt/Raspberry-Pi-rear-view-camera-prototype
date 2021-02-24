@@ -1,3 +1,6 @@
+Link to viedo: https://drive.google.com/file/d/1OMCJ1Jo2N4uPRGsJMv4R_3_hyB5JmArU/view
+
+
 # Raspberry Pi rear view camera prototype
  Projekt został zaprogramowany w języku Python. Celem projektu było skonstruowanie urządzenia na wzór samochodowej kamerki cofania. Po wykonaniu programu i naciśnięciu przycisku startu, uruchamiają się wszystkie funkcje projektu. Ultradźwiękowy sensor HC-SR04 ciągle mierzy odległość na zasadzie sonaru. Trzy diody LED (żółta, zielona i czerwona) pojedynczo się uruchamiają w zależności od odległości obiektu. Kamera daje stały podgląd w rozdzielczości 1920x1080 i 30fps. Na podłączanym ekranie pokazywany jest obraz z kamery wraz z odległością w cm. By zapobiec przegrzaniu wykorzystane zostało także chłodzenie w postaci wentylatora.
 
